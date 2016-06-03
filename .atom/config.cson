@@ -11,7 +11,5 @@
     lineHeight: 1.4
     preferredLineLength: 100
     scrollPastEnd: true
-  "exception-reporting":
-    userId: "59379d5e-6aef-77fd-da21-e1301ea2b390"
   welcome:
     showOnStartup: false
